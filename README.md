@@ -77,7 +77,7 @@ This Website compiles all the Antihuman Lore into bref paragraphs for easy under
 **Steps to view the website:**
 
 - Open your web-browser
-- Type "*Add link here*" 
+- Type https://gamley.github.io/Antihuman-Lore-Website/
 
 
 ## sources
@@ -91,6 +91,7 @@ This Website compiles all the Antihuman Lore into bref paragraphs for easy under
 **Form code:** https://github.com/deweydex/HTML-CSS-SQL-JS
 
 **Table code:** https://www.w3schools.com/html/html_tables.asp
+
 
 
 
