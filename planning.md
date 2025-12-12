@@ -36,10 +36,23 @@ I plan to have each topic in it's own box so they're broken up.
 
 ### HTML:
 
+HTML is a hypertext markup language used for web develent. It defines the content and structure.
 
+CSS and java are ofen used alongside HTML 
+
+
+- The creator of HTML is Tim Berners-Lee
+- It was first released in the 1990s 
+- HTML 3.2 was published in Jan 1997 and HNML 4.0 in dec 1997 as a W3C Recommendation
+- HTML 5 was published in 2014
 
 ### CSS:
+CSS is a style langguage, used for specifying the style of a website or document made in HTML.
 
+- The creator of CSS is Håkon Wium Lie
+- It was first released in 1996
+- CSS2.1 was published on the on 7 June 2011
+- There is no plans for a CSS 4 as of now
 
 
 ## **HTML tags**
@@ -55,4 +68,7 @@ I plan to have each topic in it's own box so they're broken up.
 History of Html: https://en.wikipedia.org/wiki/HTML#History
 
 History of CSS: https://en.wikipedia.org/wiki/CSS
+
+History of HTML and CSS: https://www3.cs.stonybrook.edu/~pfodor/courses/CSE316/L03-HTML_CSS.pdf
+
 
