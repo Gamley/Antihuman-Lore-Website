@@ -87,5 +87,6 @@ This Website compiles all the Antihuman Lore into bref paragraphs for easy under
 ## Credit
 
  ### Cybernetic Heart written by MeloditeCat
-    
+ ### Gossip Girls  written by MeloditeCat
+
 
