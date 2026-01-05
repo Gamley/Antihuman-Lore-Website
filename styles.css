@@ -99,6 +99,12 @@ background-size: cover;
     text-align: center;
 }
 
+.text {
+    width: 340px;
+    height: 160px;
+    overflow: scroll
+}
+
 img {
     width: 250px;
     height: 250px;
