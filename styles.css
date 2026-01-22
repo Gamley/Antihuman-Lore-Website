@@ -1,6 +1,7 @@
 /* template code from https://github.com/deweydex/HTML-CSS-SQL-JS */
 
 * {
+            font-family: "Times New Roman", Times, serif;
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -99,6 +100,14 @@ background-size: cover;
     text-align: center;
 }
 
+.text {
+    background-color: rgb(236, 236, 236);
+    width: 340px;
+    height: 165px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
 img {
     width: 250px;
     height: 250px;
@@ -123,17 +132,18 @@ table, th, td {
     margin-right: auto;
 }
 
+
 /*
 ===============================
 FOOTER STYLE
 ===============================
 */
 
- footer {
+ #footer {
             background-color: #1f2937;
             color: white;
             text-align: center;
-            padding: 2rem 0;
+            padding: 1rem 0;
             
         }
         
@@ -148,6 +158,6 @@ OTHER
 ===============================
 */
 
-.white {
-    color: white;
+#White {
+    color: #f9fafb;
 }
