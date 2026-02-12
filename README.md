@@ -86,8 +86,14 @@ This Website compiles all the Antihuman Lore into bref paragraphs for easy under
 
 ## Credit
 
- ### Cybernetic Heart written by MeloditeCat
- ### Gossip Girls  written by MeloditeCat
+ ### Cybernetic Heart written by LotusTea
+ ### Gossip Girls  written by LotusTea
  ### Vanilla Milkshake written by LotusTea
+ ### Dandolin Candi written by LovecutV
+
+
+ ## Last Updated
+ 
+ ### 11/02/2026
 
 
