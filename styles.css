@@ -91,15 +91,6 @@ background-size: cover;
     background-color: #f9fafb;
 }
 
-.form {
-    margin: 0 auto;
-    max-width: 1000px;
-    margin-top: 2rem; margin-bottom: 2rem;
-    background-color: #a58f40;
-    border-radius: 10px;
-    text-align: center;
-}
-
 .text {
     background-color: rgb(236, 236, 236);
     width: 340px;
@@ -114,23 +105,17 @@ img {
     margin: 5px;
 }
 
-.table {
-    margin: 0 auto;
-    max-width: 500px;
-    margin-top: 2rem; margin-bottom: 2rem;
-    background-color: #a58f40;
-    border-radius: 10px;
-    text-align: center;
-    padding-bottom: 1rem;
+#what_is {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: nowrap
 }
 
-table, th, td {
-    border: 2px solid;
-    border-collapse: collapse;
-    padding: 10px;
-    margin-left: auto; 
-    margin-right: auto;
+#info {
+    max-width: 1200px
 }
+
 
 
 /*
